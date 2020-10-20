@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE image [
+  <!ELEMENT image EMPTY>
+<!--   <!ATTLIST image height CDATA #FIXED "100"> -->
+<!ATTLIST image height CDATA #FIXED "100">
+  <!ATTLIST image width CDATA #REQUIRED>
+]>
+<image height="100" width="32" />
+
+
+
+
+
+
+
+
