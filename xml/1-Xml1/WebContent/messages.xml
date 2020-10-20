@@ -5,8 +5,9 @@ xmlns="https://www.w3schools.com"
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="https://www.w3schools.com message.xsd">
 
+ <to>Tove</to>
   <from>Jani</from>
-    <to>Tove</to>
+   
   
   <heading>Reminder</heading>
   <body>Don't forget me this weekend!</body>
